@@ -1,0 +1,14 @@
+C:\Users\Сергей\source\repos\Toyota_beta\Toyota_beta\bin\Debug\Toyota_beta.exe.config
+C:\Users\Сергей\source\repos\Toyota_beta\Toyota_beta\bin\Debug\Toyota_beta.exe
+C:\Users\Сергей\source\repos\Toyota_beta\Toyota_beta\bin\Debug\Toyota_beta.pdb
+C:\Users\Сергей\source\repos\Toyota_beta\Toyota_beta\obj\Debug\Toyota_beta.csprojAssemblyReference.cache
+C:\Users\Сергей\source\repos\Toyota_beta\Toyota_beta\obj\Debug\Toyota_beta.Form1.resources
+C:\Users\Сергей\source\repos\Toyota_beta\Toyota_beta\obj\Debug\Toyota_beta.Properties.Resources.resources
+C:\Users\Сергей\source\repos\Toyota_beta\Toyota_beta\obj\Debug\Toyota_beta.csproj.GenerateResource.cache
+C:\Users\Сергей\source\repos\Toyota_beta\Toyota_beta\obj\Debug\Toyota_beta.exe
+C:\Users\Сергей\source\repos\Toyota_beta\Toyota_beta\obj\Debug\Toyota_beta.pdb
+C:\Users\Сергей\source\repos\Toyota_beta\Toyota_beta\obj\Debug\Toyota_beta.Info.resources
+C:\Users\Сергей\source\repos\Toyota_beta\Toyota_beta\obj\Debug\Toyota_beta.addModel.resources
+C:\Users\Сергей\source\repos\Toyota_beta\Toyota_beta\obj\Debug\Toyota_beta.editModel.resources
+C:\Users\Сергей\source\repos\Toyota_beta\Toyota_beta\obj\Debug\Toyota_beta.addCar.resources
+C:\Users\Сергей\source\repos\Toyota_beta\Toyota_beta\obj\Debug\Toyota_beta.editCar.resources

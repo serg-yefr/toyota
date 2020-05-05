@@ -1,0 +1,695 @@
+<?xml version="1.0"?>
+<ArrayOfModels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Models>
+    <Model>Yaris </Model>
+    <Year>2020</Year>
+    <Type>Sedan</Type>
+    <Price>from 15,650$</Price>
+    <Cars>
+      <Cars>
+        <Model>Yaris L</Model>
+        <Year>2020</Year>
+        <Transmission>Manual</Transmission>
+        <Drive>FWD</Drive>
+        <Hp>106</Hp>
+        <Engine>Fuel</Engine>
+        <Price>15650</Price>
+      </Cars>
+      <Cars>
+        <Model>Yaris XLE</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>FWD</Drive>
+        <Hp>106</Hp>
+        <Engine>Fuel</Engine>
+        <Price>18750</Price>
+      </Cars>
+    </Cars>
+  </Models>
+  <Models>
+    <Model>Yaris Hatchback</Model>
+    <Year>2020</Year>
+    <Type>Hatchback</Type>
+    <Price>from 17,750$</Price>
+    <Cars>
+      <Cars>
+        <Model>Yaris LE Hatchback</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>FWD</Drive>
+        <Hp>106</Hp>
+        <Engine>Fuel</Engine>
+        <Price>17750</Price>
+      </Cars>
+    </Cars>
+  </Models>
+  <Models>
+    <Model>Cororlla</Model>
+    <Year>2020</Year>
+    <Type>Sedan</Type>
+    <Price>from 19,600$</Price>
+    <Cars>
+      <Cars>
+        <Model>Corolla L</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>FWD</Drive>
+        <Hp>139</Hp>
+        <Engine>Fuel</Engine>
+        <Price>19600</Price>
+      </Cars>
+      <Cars>
+        <Model>Corolla LE</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>FWD</Drive>
+        <Hp>139</Hp>
+        <Engine>Fuel</Engine>
+        <Price>20050</Price>
+      </Cars>
+      <Cars>
+        <Model>Corolla Hybrid LE</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>FWD</Drive>
+        <Hp>169</Hp>
+        <Engine>Fuel</Engine>
+        <Price>23100</Price>
+      </Cars>
+    </Cars>
+  </Models>
+  <Models>
+    <Model>Cororlla Hatchback</Model>
+    <Year>2020</Year>
+    <Type>Hatchback</Type>
+    <Price>from 20,290$</Price>
+    <Cars>
+      <Cars>
+        <Model>Corolla SE</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>FWD</Drive>
+        <Hp>168</Hp>
+        <Engine>Fuel</Engine>
+        <Price>20290</Price>
+      </Cars>
+    </Cars>
+  </Models>
+  <Models>
+    <Model>Camry</Model>
+    <Year>2020</Year>
+    <Type>Sedan</Type>
+    <Price>from 24,425$</Price>
+    <Cars>
+      <Cars>
+        <Model>Camry L</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>FWD</Drive>
+        <Hp>203</Hp>
+        <Engine>Fuel</Engine>
+        <Price>24425</Price>
+      </Cars>
+      <Cars>
+        <Model>Camry LE</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>AWD</Drive>
+        <Hp>202</Hp>
+        <Engine>Fuel</Engine>
+        <Price>26370</Price>
+      </Cars>
+      <Cars>
+        <Model>Camry TRD</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>AWD</Drive>
+        <Hp>301</Hp>
+        <Engine>Fuel</Engine>
+        <Price>31170</Price>
+      </Cars>
+      <Cars>
+        <Model>Camry XLE</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>AWD</Drive>
+        <Hp>301</Hp>
+        <Engine>Fuel</Engine>
+        <Price>34580</Price>
+      </Cars>
+      <Cars>
+        <Model>Camry Hybrid LE</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>FWD</Drive>
+        <Hp>169</Hp>
+        <Engine>Hybrid</Engine>
+        <Price>28430</Price>
+      </Cars>
+    </Cars>
+  </Models>
+  <Models>
+    <Model>Prius</Model>
+    <Year>2019</Year>
+    <Type>Hatchback</Type>
+    <Price>from 24,325$</Price>
+    <Cars>
+      <Cars>
+        <Model>Prius L - Eco</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>FWD</Drive>
+        <Hp>96</Hp>
+        <Engine>Hybrid</Engine>
+        <Price>24325</Price>
+      </Cars>
+      <Cars>
+        <Model>Prius LE</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>FWD</Drive>
+        <Hp>96</Hp>
+        <Engine>Hybrid</Engine>
+        <Price>25535</Price>
+      </Cars>
+      <Cars>
+        <Model>Corolla XLE</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>AWD</Drive>
+        <Hp>96</Hp>
+        <Engine>Hybrid</Engine>
+        <Price>29375</Price>
+      </Cars>
+    </Cars>
+  </Models>
+  <Models>
+    <Model>Avalon</Model>
+    <Year>2020</Year>
+    <Type>Sedan</Type>
+    <Price>from 35,875$</Price>
+    <Cars>
+      <Cars>
+        <Model>Avalon XLE</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>FWD</Drive>
+        <Hp>301</Hp>
+        <Engine>Fuel</Engine>
+        <Price>35875</Price>
+      </Cars>
+      <Cars>
+        <Model>Avalon XSE</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>FWD</Drive>
+        <Hp>301</Hp>
+        <Engine>Fuel</Engine>
+        <Price>38375</Price>
+      </Cars>
+      <Cars>
+        <Model>Avalon TRD</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>FWD</Drive>
+        <Hp>301</Hp>
+        <Engine>Fuel</Engine>
+        <Price>42375</Price>
+      </Cars>
+      <Cars>
+        <Model>Avalon Touring</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>FWD</Drive>
+        <Hp>301</Hp>
+        <Engine>Fuel</Engine>
+        <Price>42575</Price>
+      </Cars>
+      <Cars>
+        <Model>Avalon Hybrid XLE</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>AWD</Drive>
+        <Hp>176</Hp>
+        <Engine>Hybrid</Engine>
+        <Price>37000</Price>
+      </Cars>
+    </Cars>
+  </Models>
+  <Models>
+    <Model>Mirai</Model>
+    <Year>2019</Year>
+    <Type>Sedan</Type>
+    <Price>from 58,500$</Price>
+    <Cars>
+      <Cars>
+        <Model>Mirai</Model>
+        <Year>2019</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>FWD</Drive>
+        <Hp>151</Hp>
+        <Engine>Electric</Engine>
+        <Price>58500</Price>
+      </Cars>
+    </Cars>
+  </Models>
+  <Models>
+    <Model>86</Model>
+    <Year>2020</Year>
+    <Type>Coupe</Type>
+    <Price>from 27,060$</Price>
+    <Cars>
+      <Cars>
+        <Model>86</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>FWD</Drive>
+        <Hp>205</Hp>
+        <Engine>Fuel</Engine>
+        <Price>27060</Price>
+      </Cars>
+      <Cars>
+        <Model>86 GT</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>FWD</Drive>
+        <Hp>205</Hp>
+        <Engine>Fuel</Engine>
+        <Price>30190</Price>
+      </Cars>
+      <Cars>
+        <Model>86 HE</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>FWD</Drive>
+        <Hp>205</Hp>
+        <Engine>Fuel</Engine>
+        <Price>29870</Price>
+      </Cars>
+    </Cars>
+  </Models>
+  <Models>
+    <Model>Supra</Model>
+    <Year>2020</Year>
+    <Type>Coupe</Type>
+    <Price>from 49,990$</Price>
+    <Cars>
+      <Cars>
+        <Model>Supra 3.0</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>RWD</Drive>
+        <Hp>335</Hp>
+        <Engine>Fuel</Engine>
+        <Price>49990</Price>
+      </Cars>
+      <Cars>
+        <Model>Supra 3.0 Premium</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>RWD</Drive>
+        <Hp>335</Hp>
+        <Engine>Fuel</Engine>
+        <Price>53990</Price>
+      </Cars>
+      <Cars>
+        <Model>Supra 3.0 LE</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>RWD</Drive>
+        <Hp>335</Hp>
+        <Engine>Fuel</Engine>
+        <Price>55250</Price>
+      </Cars>
+    </Cars>
+  </Models>
+  <Models>
+    <Model>Tacoma</Model>
+    <Year>2020</Year>
+    <Type>Pickup</Type>
+    <Price>from 26,050$</Price>
+    <Cars>
+      <Cars>
+        <Model>Tacoma SR</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>RWD</Drive>
+        <Hp>159</Hp>
+        <Engine>Fuel</Engine>
+        <Price>26050</Price>
+      </Cars>
+      <Cars>
+        <Model>Tacoma SR5</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>RWD</Drive>
+        <Hp>278</Hp>
+        <Engine>Fuel</Engine>
+        <Price>30970</Price>
+      </Cars>
+      <Cars>
+        <Model>Tacoma TRD Sport</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>AWD</Drive>
+        <Hp>278</Hp>
+        <Engine>Fuel</Engine>
+        <Price>36030</Price>
+      </Cars>
+    </Cars>
+  </Models>
+  <Models>
+    <Model>Tundra</Model>
+    <Year>2020</Year>
+    <Type>Pickup</Type>
+    <Price>from 33,575$</Price>
+    <Cars>
+      <Cars>
+        <Model>Tundra SR</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>RWD</Drive>
+        <Hp>381</Hp>
+        <Engine>Fuel</Engine>
+        <Price>33575</Price>
+      </Cars>
+      <Cars>
+        <Model>Tundra SR5</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>RWD</Drive>
+        <Hp>381</Hp>
+        <Engine>Fuel</Engine>
+        <Price>38625</Price>
+      </Cars>
+      <Cars>
+        <Model>Tundra TRD Pro</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>AWD</Drive>
+        <Hp>381</Hp>
+        <Engine>Fuel</Engine>
+        <Price>48655</Price>
+      </Cars>
+      <Cars>
+        <Model>Tundra Platinum</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>AWD</Drive>
+        <Hp>381</Hp>
+        <Engine>Fuel</Engine>
+        <Price>51825</Price>
+      </Cars>
+    </Cars>
+  </Models>
+  <Models>
+    <Model>Sienna</Model>
+    <Year>2020</Year>
+    <Type>Van</Type>
+    <Price>from 31,640$</Price>
+    <Cars>
+      <Cars>
+        <Model>Sienna L</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>FWD</Drive>
+        <Hp>296</Hp>
+        <Engine>Fuel</Engine>
+        <Price>31640</Price>
+      </Cars>
+      <Cars>
+        <Model>Sienna SE</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>FWD</Drive>
+        <Hp>296</Hp>
+        <Engine>Fuel</Engine>
+        <Price>37790</Price>
+      </Cars>
+      <Cars>
+        <Model>Sienna XLE</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>FWD</Drive>
+        <Hp>296</Hp>
+        <Engine>Fuel</Engine>
+        <Price>37790</Price>
+      </Cars>
+    </Cars>
+  </Models>
+  <Models>
+    <Model>C-HR</Model>
+    <Year>2020</Year>
+    <Type>Crossover</Type>
+    <Price>from 21,295$</Price>
+    <Cars>
+      <Cars>
+        <Model>C-HR LE</Model>
+        <Year>2020</Year>
+        <Transmission>Manual</Transmission>
+        <Drive>FWD</Drive>
+        <Hp>144</Hp>
+        <Engine>Fuel</Engine>
+        <Price>21295</Price>
+      </Cars>
+      <Cars>
+        <Model>C-HR XLE</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>FWD</Drive>
+        <Hp>144</Hp>
+        <Engine>Fuel</Engine>
+        <Price>23330</Price>
+      </Cars>
+    </Cars>
+  </Models>
+  <Models>
+    <Model>RAV4</Model>
+    <Year>2020</Year>
+    <Type>Crossover</Type>
+    <Price>from 25,950$</Price>
+    <Cars>
+      <Cars>
+        <Model>RAV4 LE</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>FWD</Drive>
+        <Hp>203</Hp>
+        <Engine>Fuel</Engine>
+        <Price>25950</Price>
+      </Cars>
+      <Cars>
+        <Model>RAV4 XLE</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>FWD</Drive>
+        <Hp>203</Hp>
+        <Engine>Fuel</Engine>
+        <Price>27245</Price>
+      </Cars>
+      <Cars>
+        <Model>RAV4 TRD</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>AWD</Drive>
+        <Hp>203</Hp>
+        <Engine>Fuel</Engine>
+        <Price>35280</Price>
+      </Cars>
+      <Cars>
+        <Model>RAV4 XLE Hybrid</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>AWD</Drive>
+        <Hp>219</Hp>
+        <Engine>Hybrid</Engine>
+        <Price>29645</Price>
+      </Cars>
+      <Cars>
+        <Model>RAV4 XSE Hybrid</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>AWD</Drive>
+        <Hp>219</Hp>
+        <Engine>Hybrid</Engine>
+        <Price>34300</Price>
+      </Cars>
+    </Cars>
+  </Models>
+  <Models>
+    <Model>Highlander</Model>
+    <Year>2020</Year>
+    <Type>Crossover</Type>
+    <Price>from 34,600$</Price>
+    <Cars>
+      <Cars>
+        <Model>Highlander L</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>FWD</Drive>
+        <Hp>295</Hp>
+        <Engine>Fuel</Engine>
+        <Price>34600</Price>
+      </Cars>
+      <Cars>
+        <Model>Highlander LE</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>FWD</Drive>
+        <Hp>295</Hp>
+        <Engine>Fuel</Engine>
+        <Price>36800</Price>
+      </Cars>
+      <Cars>
+        <Model>Highlander XLE</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>AWD</Drive>
+        <Hp>295</Hp>
+        <Engine>Fuel</Engine>
+        <Price>41200</Price>
+      </Cars>
+      <Cars>
+        <Model>Highlander LE Hybrid</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>AWD</Drive>
+        <Hp>243</Hp>
+        <Engine>Hybrid</Engine>
+        <Price>39800</Price>
+      </Cars>
+      <Cars>
+        <Model>Highlander XLE Hybrid</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>AWD</Drive>
+        <Hp>243</Hp>
+        <Engine>Hybrid</Engine>
+        <Price>42600</Price>
+      </Cars>
+      <Cars>
+        <Model>Highlander Platinum</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>AWD</Drive>
+        <Hp>295</Hp>
+        <Engine>Fuel</Engine>
+        <Price>48800</Price>
+      </Cars>
+      <Cars>
+        <Model>Highlander Platinum Hybrid</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>AWD</Drive>
+        <Hp>243</Hp>
+        <Engine>Hybrid</Engine>
+        <Price>50200</Price>
+      </Cars>
+    </Cars>
+  </Models>
+  <Models>
+    <Model>4Runner</Model>
+    <Year>2019</Year>
+    <Type>SUV</Type>
+    <Price>from 36,120$</Price>
+    <Cars>
+      <Cars>
+        <Model>4Runner SR5</Model>
+        <Year>2019</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>RWD</Drive>
+        <Hp>270</Hp>
+        <Engine>Fuel</Engine>
+        <Price>36120</Price>
+      </Cars>
+      <Cars>
+        <Model>4Runner TRD</Model>
+        <Year>2019</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>AWD</Drive>
+        <Hp>270</Hp>
+        <Engine>Fuel</Engine>
+        <Price>39840</Price>
+      </Cars>
+      <Cars>
+        <Model>4Runner TRD Pro</Model>
+        <Year>2019</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>AWD</Drive>
+        <Hp>270</Hp>
+        <Engine>Fuel</Engine>
+        <Price>49865</Price>
+      </Cars>
+    </Cars>
+  </Models>
+  <Models>
+    <Model>Sequoia</Model>
+    <Year>2020</Year>
+    <Type>SUV</Type>
+    <Price>from 49,980$</Price>
+    <Cars>
+      <Cars>
+        <Model>Sequoia SR5</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>RWD</Drive>
+        <Hp>381</Hp>
+        <Engine>Fuel</Engine>
+        <Price>49980</Price>
+      </Cars>
+      <Cars>
+        <Model>Sequoia TRD Sport</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>AWD</Drive>
+        <Hp>381</Hp>
+        <Engine>Fuel</Engine>
+        <Price>55920</Price>
+      </Cars>
+      <Cars>
+        <Model>Sequoia TRD Pro</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>AWD</Drive>
+        <Hp>381</Hp>
+        <Engine>Fuel</Engine>
+        <Price>64105</Price>
+      </Cars>
+      <Cars>
+        <Model>Sequoia Platinum</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>AWD</Drive>
+        <Hp>381</Hp>
+        <Engine>Fuel</Engine>
+        <Price>69245</Price>
+      </Cars>
+    </Cars>
+  </Models>
+  <Models>
+    <Model>Land Cruiser</Model>
+    <Year>2020</Year>
+    <Type>SUV</Type>
+    <Price>from 85,415$</Price>
+    <Cars>
+      <Cars>
+        <Model>Land Cruiser</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>AWD</Drive>
+        <Hp>381</Hp>
+        <Engine>Fuel</Engine>
+        <Price>85415</Price>
+      </Cars>
+      <Cars>
+        <Model>Land Cruiser HE</Model>
+        <Year>2020</Year>
+        <Transmission>Automatic</Transmission>
+        <Drive>AWD</Drive>
+        <Hp>381</Hp>
+        <Engine>Fuel</Engine>
+        <Price>87745</Price>
+      </Cars>
+    </Cars>
+  </Models>
+</ArrayOfModels>
